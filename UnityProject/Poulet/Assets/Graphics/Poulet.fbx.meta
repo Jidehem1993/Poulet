@@ -1,0 +1,917 @@
+fileFormatVersion: 2
+guid: 507d041cd14a34a3b9e3a5404e54cae0
+timeCreated: 1426119636
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: Aile1
+    100002: Aile2
+    100004: Bec
+    100006: Bone001
+    100008: Bone002
+    100010: Bone003
+    100012: Bone004
+    100014: Bone005
+    100016: Bone006
+    100018: Bone007
+    100020: Bone008
+    100022: Bone009
+    100024: Bone010
+    100026: Bone011
+    100028: Bone012
+    100030: Bone013
+    100032: Bone014
+    100034: Corps
+    100036: Crete
+    100038: Machin
+    100040: Oeil1
+    100042: Oeil2
+    100044: Patte1
+    100046: Patte2
+    100048: //RootNode
+    100050: Queue
+    100052: Sphere001
+    100054: Sphere002
+    100056: Sphere003
+    100058: Sphere010
+    100060: Sphere011
+    100062: Sphere012
+    100064: Sphere013
+    100066: Sphere014
+    100068: Sphere015
+    100070: Sphere015 1
+    100072: Sphere016
+    100074: Sphere017
+    100076: Sphere018
+    100078: Sphere018 1
+    100080: transform1
+    100082: transform2
+    100084: transform3
+    100086: transform4
+    100088: transform5
+    100090: transform6
+    100092: Yeux
+    400000: Aile1
+    400002: Aile2
+    400004: Bec
+    400006: Bone001
+    400008: Bone002
+    400010: Bone003
+    400012: Bone004
+    400014: Bone005
+    400016: Bone006
+    400018: Bone007
+    400020: Bone008
+    400022: Bone009
+    400024: Bone010
+    400026: Bone011
+    400028: Bone012
+    400030: Bone013
+    400032: Bone014
+    400034: Corps
+    400036: Crete
+    400038: Machin
+    400040: Oeil1
+    400042: Oeil2
+    400044: Patte1
+    400046: Patte2
+    400048: //RootNode
+    400050: Queue
+    400052: Sphere001
+    400054: Sphere002
+    400056: Sphere003
+    400058: Sphere010
+    400060: Sphere011
+    400062: Sphere012
+    400064: Sphere013
+    400066: Sphere014
+    400068: Sphere015
+    400070: Sphere015 1
+    400072: Sphere016
+    400074: Sphere017
+    400076: Sphere018
+    400078: Sphere018 1
+    400080: transform1
+    400082: transform2
+    400084: transform3
+    400086: transform4
+    400088: transform5
+    400090: transform6
+    400092: Yeux
+    4300000: Patte1
+    4300002: Patte2
+    4300004: Corps
+    4300006: Sphere010
+    4300008: Sphere011
+    4300010: Sphere012
+    4300012: Sphere001
+    4300014: Sphere002
+    4300016: Sphere003
+    4300018: Oeil1
+    4300020: Oeil2
+    4300022: Machin
+    4300024: Bec
+    4300026: Sphere015
+    4300028: Sphere018
+    7400000: Fly
+    7400002: Peck
+    7400004: Jump
+    7400006: Walk
+    7400008: Turn
+    7400010: Zero
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: Bec
+    13700002: Corps
+    13700004: Machin
+    13700006: Oeil1
+    13700008: Oeil2
+    13700010: Patte1
+    13700012: Patte2
+    13700014: Sphere001
+    13700016: Sphere002
+    13700018: Sphere003
+    13700020: Sphere010
+    13700022: Sphere011
+    13700024: Sphere012
+    13700026: Sphere015
+    13700028: Sphere018
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Fly
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 18
+      wrapMode: 1
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Aile1
+        weight: 1
+      - path: Aile1/Sphere016
+        weight: 1
+      - path: Aile1/Sphere016/transform4
+        weight: 1
+      - path: Aile1/Sphere017
+        weight: 1
+      - path: Aile1/Sphere017/transform5
+        weight: 1
+      - path: Aile1/Sphere018 1
+        weight: 1
+      - path: Aile1/Sphere018 1/transform6
+        weight: 1
+      - path: Aile2
+        weight: 1
+      - path: Aile2/Sphere013
+        weight: 1
+      - path: Aile2/Sphere013/transform1
+        weight: 1
+      - path: Aile2/Sphere014
+        weight: 1
+      - path: Aile2/Sphere014/transform2
+        weight: 1
+      - path: Aile2/Sphere015 1
+        weight: 1
+      - path: Aile2/Sphere015 1/transform3
+        weight: 1
+      - path: Bone001
+        weight: 1
+      - path: Bone001/Bone002
+        weight: 1
+      - path: Bone001/Bone002/Bone003
+        weight: 1
+      - path: Bone001/Bone002/Bone003/Bone004
+        weight: 1
+      - path: Bone001/Bone005
+        weight: 1
+      - path: Bone001/Bone005/Bone006
+        weight: 1
+      - path: Bone001/Bone005/Bone006/Bone007
+        weight: 1
+      - path: Bone001/Bone008
+        weight: 1
+      - path: Bone001/Bone008/Bone009
+        weight: 1
+      - path: Bone001/Bone008/Bone009/Bone010
+        weight: 1
+      - path: Bone001/Bone008/Bone009/Bone010/Bone011
+        weight: 1
+      - path: Bone001/Bone008/Bone012
+        weight: 1
+      - path: Bone001/Bone008/Bone012/Bone013
+        weight: 1
+      - path: Bone001/Bone008/Bone012/Bone013/Bone014
+        weight: 1
+      - path: Corps
+        weight: 1
+      - path: Corps/Bec
+        weight: 1
+      - path: Corps/Crete
+        weight: 1
+      - path: Corps/Crete/Sphere001
+        weight: 1
+      - path: Corps/Crete/Sphere002
+        weight: 1
+      - path: Corps/Crete/Sphere003
+        weight: 1
+      - path: Corps/Machin
+        weight: 1
+      - path: Corps/Queue
+        weight: 1
+      - path: Corps/Queue/Sphere010
+        weight: 1
+      - path: Corps/Queue/Sphere011
+        weight: 1
+      - path: Corps/Queue/Sphere012
+        weight: 1
+      - path: Corps/Yeux
+        weight: 1
+      - path: Corps/Yeux/Oeil1
+        weight: 1
+      - path: Corps/Yeux/Oeil2
+        weight: 1
+      - path: Patte1
+        weight: 1
+      - path: Patte2
+        weight: 1
+      - path: Sphere015
+        weight: 1
+      - path: Sphere018
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Peck
+      takeName: Take 001
+      firstFrame: 18
+      lastFrame: 29
+      wrapMode: 1
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Aile1
+        weight: 1
+      - path: Aile1/Sphere016
+        weight: 1
+      - path: Aile1/Sphere016/transform4
+        weight: 1
+      - path: Aile1/Sphere017
+        weight: 1
+      - path: Aile1/Sphere017/transform5
+        weight: 1
+      - path: Aile1/Sphere018 1
+        weight: 1
+      - path: Aile1/Sphere018 1/transform6
+        weight: 1
+      - path: Aile2
+        weight: 1
+      - path: Aile2/Sphere013
+        weight: 1
+      - path: Aile2/Sphere013/transform1
+        weight: 1
+      - path: Aile2/Sphere014
+        weight: 1
+      - path: Aile2/Sphere014/transform2
+        weight: 1
+      - path: Aile2/Sphere015 1
+        weight: 1
+      - path: Aile2/Sphere015 1/transform3
+        weight: 1
+      - path: Bone001
+        weight: 1
+      - path: Bone001/Bone002
+        weight: 1
+      - path: Bone001/Bone002/Bone003
+        weight: 1
+      - path: Bone001/Bone002/Bone003/Bone004
+        weight: 1
+      - path: Bone001/Bone005
+        weight: 1
+      - path: Bone001/Bone005/Bone006
+        weight: 1
+      - path: Bone001/Bone005/Bone006/Bone007
+        weight: 1
+      - path: Bone001/Bone008
+        weight: 1
+      - path: Bone001/Bone008/Bone009
+        weight: 1
+      - path: Bone001/Bone008/Bone009/Bone010
+        weight: 1
+      - path: Bone001/Bone008/Bone009/Bone010/Bone011
+        weight: 1
+      - path: Bone001/Bone008/Bone012
+        weight: 1
+      - path: Bone001/Bone008/Bone012/Bone013
+        weight: 1
+      - path: Bone001/Bone008/Bone012/Bone013/Bone014
+        weight: 1
+      - path: Corps
+        weight: 1
+      - path: Corps/Bec
+        weight: 1
+      - path: Corps/Crete
+        weight: 1
+      - path: Corps/Crete/Sphere001
+        weight: 1
+      - path: Corps/Crete/Sphere002
+        weight: 1
+      - path: Corps/Crete/Sphere003
+        weight: 1
+      - path: Corps/Machin
+        weight: 1
+      - path: Corps/Queue
+        weight: 1
+      - path: Corps/Queue/Sphere010
+        weight: 1
+      - path: Corps/Queue/Sphere011
+        weight: 1
+      - path: Corps/Queue/Sphere012
+        weight: 1
+      - path: Corps/Yeux
+        weight: 1
+      - path: Corps/Yeux/Oeil1
+        weight: 1
+      - path: Corps/Yeux/Oeil2
+        weight: 1
+      - path: Patte1
+        weight: 1
+      - path: Patte2
+        weight: 1
+      - path: Sphere015
+        weight: 1
+      - path: Sphere018
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Jump
+      takeName: Take 001
+      firstFrame: 29
+      lastFrame: 38
+      wrapMode: 1
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Aile1
+        weight: 1
+      - path: Aile1/Sphere016
+        weight: 1
+      - path: Aile1/Sphere016/transform4
+        weight: 1
+      - path: Aile1/Sphere017
+        weight: 1
+      - path: Aile1/Sphere017/transform5
+        weight: 1
+      - path: Aile1/Sphere018 1
+        weight: 1
+      - path: Aile1/Sphere018 1/transform6
+        weight: 1
+      - path: Aile2
+        weight: 1
+      - path: Aile2/Sphere013
+        weight: 1
+      - path: Aile2/Sphere013/transform1
+        weight: 1
+      - path: Aile2/Sphere014
+        weight: 1
+      - path: Aile2/Sphere014/transform2
+        weight: 1
+      - path: Aile2/Sphere015 1
+        weight: 1
+      - path: Aile2/Sphere015 1/transform3
+        weight: 1
+      - path: Bone001
+        weight: 1
+      - path: Bone001/Bone002
+        weight: 1
+      - path: Bone001/Bone002/Bone003
+        weight: 1
+      - path: Bone001/Bone002/Bone003/Bone004
+        weight: 1
+      - path: Bone001/Bone005
+        weight: 1
+      - path: Bone001/Bone005/Bone006
+        weight: 1
+      - path: Bone001/Bone005/Bone006/Bone007
+        weight: 1
+      - path: Bone001/Bone008
+        weight: 1
+      - path: Bone001/Bone008/Bone009
+        weight: 1
+      - path: Bone001/Bone008/Bone009/Bone010
+        weight: 1
+      - path: Bone001/Bone008/Bone009/Bone010/Bone011
+        weight: 1
+      - path: Bone001/Bone008/Bone012
+        weight: 1
+      - path: Bone001/Bone008/Bone012/Bone013
+        weight: 1
+      - path: Bone001/Bone008/Bone012/Bone013/Bone014
+        weight: 1
+      - path: Corps
+        weight: 1
+      - path: Corps/Bec
+        weight: 1
+      - path: Corps/Crete
+        weight: 1
+      - path: Corps/Crete/Sphere001
+        weight: 1
+      - path: Corps/Crete/Sphere002
+        weight: 1
+      - path: Corps/Crete/Sphere003
+        weight: 1
+      - path: Corps/Machin
+        weight: 1
+      - path: Corps/Queue
+        weight: 1
+      - path: Corps/Queue/Sphere010
+        weight: 1
+      - path: Corps/Queue/Sphere011
+        weight: 1
+      - path: Corps/Queue/Sphere012
+        weight: 1
+      - path: Corps/Yeux
+        weight: 1
+      - path: Corps/Yeux/Oeil1
+        weight: 1
+      - path: Corps/Yeux/Oeil2
+        weight: 1
+      - path: Patte1
+        weight: 1
+      - path: Patte2
+        weight: 1
+      - path: Sphere015
+        weight: 1
+      - path: Sphere018
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Walk
+      takeName: Take 001
+      firstFrame: 38
+      lastFrame: 57
+      wrapMode: 1
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Aile1
+        weight: 1
+      - path: Aile1/Sphere016
+        weight: 1
+      - path: Aile1/Sphere016/transform4
+        weight: 1
+      - path: Aile1/Sphere017
+        weight: 1
+      - path: Aile1/Sphere017/transform5
+        weight: 1
+      - path: Aile1/Sphere018 1
+        weight: 1
+      - path: Aile1/Sphere018 1/transform6
+        weight: 1
+      - path: Aile2
+        weight: 1
+      - path: Aile2/Sphere013
+        weight: 1
+      - path: Aile2/Sphere013/transform1
+        weight: 1
+      - path: Aile2/Sphere014
+        weight: 1
+      - path: Aile2/Sphere014/transform2
+        weight: 1
+      - path: Aile2/Sphere015 1
+        weight: 1
+      - path: Aile2/Sphere015 1/transform3
+        weight: 1
+      - path: Bone001
+        weight: 1
+      - path: Bone001/Bone002
+        weight: 1
+      - path: Bone001/Bone002/Bone003
+        weight: 1
+      - path: Bone001/Bone002/Bone003/Bone004
+        weight: 1
+      - path: Bone001/Bone005
+        weight: 1
+      - path: Bone001/Bone005/Bone006
+        weight: 1
+      - path: Bone001/Bone005/Bone006/Bone007
+        weight: 1
+      - path: Bone001/Bone008
+        weight: 1
+      - path: Bone001/Bone008/Bone009
+        weight: 1
+      - path: Bone001/Bone008/Bone009/Bone010
+        weight: 1
+      - path: Bone001/Bone008/Bone009/Bone010/Bone011
+        weight: 1
+      - path: Bone001/Bone008/Bone012
+        weight: 1
+      - path: Bone001/Bone008/Bone012/Bone013
+        weight: 1
+      - path: Bone001/Bone008/Bone012/Bone013/Bone014
+        weight: 1
+      - path: Corps
+        weight: 1
+      - path: Corps/Bec
+        weight: 1
+      - path: Corps/Crete
+        weight: 1
+      - path: Corps/Crete/Sphere001
+        weight: 1
+      - path: Corps/Crete/Sphere002
+        weight: 1
+      - path: Corps/Crete/Sphere003
+        weight: 1
+      - path: Corps/Machin
+        weight: 1
+      - path: Corps/Queue
+        weight: 1
+      - path: Corps/Queue/Sphere010
+        weight: 1
+      - path: Corps/Queue/Sphere011
+        weight: 1
+      - path: Corps/Queue/Sphere012
+        weight: 1
+      - path: Corps/Yeux
+        weight: 1
+      - path: Corps/Yeux/Oeil1
+        weight: 1
+      - path: Corps/Yeux/Oeil2
+        weight: 1
+      - path: Patte1
+        weight: 1
+      - path: Patte2
+        weight: 1
+      - path: Sphere015
+        weight: 1
+      - path: Sphere018
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Turn
+      takeName: Take 001
+      firstFrame: 38
+      lastFrame: 57
+      wrapMode: 1
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Aile1
+        weight: 1
+      - path: Aile1/Sphere016
+        weight: 1
+      - path: Aile1/Sphere016/transform4
+        weight: 1
+      - path: Aile1/Sphere017
+        weight: 1
+      - path: Aile1/Sphere017/transform5
+        weight: 1
+      - path: Aile1/Sphere018 1
+        weight: 1
+      - path: Aile1/Sphere018 1/transform6
+        weight: 1
+      - path: Aile2
+        weight: 1
+      - path: Aile2/Sphere013
+        weight: 1
+      - path: Aile2/Sphere013/transform1
+        weight: 1
+      - path: Aile2/Sphere014
+        weight: 1
+      - path: Aile2/Sphere014/transform2
+        weight: 1
+      - path: Aile2/Sphere015 1
+        weight: 1
+      - path: Aile2/Sphere015 1/transform3
+        weight: 1
+      - path: Bone001
+        weight: 1
+      - path: Bone001/Bone002
+        weight: 1
+      - path: Bone001/Bone002/Bone003
+        weight: 1
+      - path: Bone001/Bone002/Bone003/Bone004
+        weight: 1
+      - path: Bone001/Bone005
+        weight: 1
+      - path: Bone001/Bone005/Bone006
+        weight: 1
+      - path: Bone001/Bone005/Bone006/Bone007
+        weight: 1
+      - path: Bone001/Bone008
+        weight: 1
+      - path: Bone001/Bone008/Bone009
+        weight: 1
+      - path: Bone001/Bone008/Bone009/Bone010
+        weight: 1
+      - path: Bone001/Bone008/Bone009/Bone010/Bone011
+        weight: 1
+      - path: Bone001/Bone008/Bone012
+        weight: 1
+      - path: Bone001/Bone008/Bone012/Bone013
+        weight: 1
+      - path: Bone001/Bone008/Bone012/Bone013/Bone014
+        weight: 1
+      - path: Corps
+        weight: 1
+      - path: Corps/Bec
+        weight: 1
+      - path: Corps/Crete
+        weight: 1
+      - path: Corps/Crete/Sphere001
+        weight: 1
+      - path: Corps/Crete/Sphere002
+        weight: 1
+      - path: Corps/Crete/Sphere003
+        weight: 1
+      - path: Corps/Machin
+        weight: 1
+      - path: Corps/Queue
+        weight: 1
+      - path: Corps/Queue/Sphere010
+        weight: 1
+      - path: Corps/Queue/Sphere011
+        weight: 1
+      - path: Corps/Queue/Sphere012
+        weight: 1
+      - path: Corps/Yeux
+        weight: 1
+      - path: Corps/Yeux/Oeil1
+        weight: 1
+      - path: Corps/Yeux/Oeil2
+        weight: 1
+      - path: Patte1
+        weight: 1
+      - path: Patte2
+        weight: 1
+      - path: Sphere015
+        weight: 1
+      - path: Sphere018
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Zero
+      takeName: Take 001
+      firstFrame: 57
+      lastFrame: 58
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Aile1
+        weight: 1
+      - path: Aile1/Sphere016
+        weight: 1
+      - path: Aile1/Sphere016/transform4
+        weight: 1
+      - path: Aile1/Sphere017
+        weight: 1
+      - path: Aile1/Sphere017/transform5
+        weight: 1
+      - path: Aile1/Sphere018 1
+        weight: 1
+      - path: Aile1/Sphere018 1/transform6
+        weight: 1
+      - path: Aile2
+        weight: 1
+      - path: Aile2/Sphere013
+        weight: 1
+      - path: Aile2/Sphere013/transform1
+        weight: 1
+      - path: Aile2/Sphere014
+        weight: 1
+      - path: Aile2/Sphere014/transform2
+        weight: 1
+      - path: Aile2/Sphere015 1
+        weight: 1
+      - path: Aile2/Sphere015 1/transform3
+        weight: 1
+      - path: Bone001
+        weight: 1
+      - path: Bone001/Bone002
+        weight: 1
+      - path: Bone001/Bone002/Bone003
+        weight: 1
+      - path: Bone001/Bone002/Bone003/Bone004
+        weight: 1
+      - path: Bone001/Bone005
+        weight: 1
+      - path: Bone001/Bone005/Bone006
+        weight: 1
+      - path: Bone001/Bone005/Bone006/Bone007
+        weight: 1
+      - path: Bone001/Bone008
+        weight: 1
+      - path: Bone001/Bone008/Bone009
+        weight: 1
+      - path: Bone001/Bone008/Bone009/Bone010
+        weight: 1
+      - path: Bone001/Bone008/Bone009/Bone010/Bone011
+        weight: 1
+      - path: Bone001/Bone008/Bone012
+        weight: 1
+      - path: Bone001/Bone008/Bone012/Bone013
+        weight: 1
+      - path: Bone001/Bone008/Bone012/Bone013/Bone014
+        weight: 1
+      - path: Corps
+        weight: 1
+      - path: Corps/Bec
+        weight: 1
+      - path: Corps/Crete
+        weight: 1
+      - path: Corps/Crete/Sphere001
+        weight: 1
+      - path: Corps/Crete/Sphere002
+        weight: 1
+      - path: Corps/Crete/Sphere003
+        weight: 1
+      - path: Corps/Machin
+        weight: 1
+      - path: Corps/Queue
+        weight: 1
+      - path: Corps/Queue/Sphere010
+        weight: 1
+      - path: Corps/Queue/Sphere011
+        weight: 1
+      - path: Corps/Queue/Sphere012
+        weight: 1
+      - path: Corps/Yeux
+        weight: 1
+      - path: Corps/Yeux/Oeil1
+        weight: 1
+      - path: Corps/Yeux/Oeil2
+        weight: 1
+      - path: Patte1
+        weight: 1
+      - path: Patte2
+        weight: 1
+      - path: Sphere015
+        weight: 1
+      - path: Sphere018
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
